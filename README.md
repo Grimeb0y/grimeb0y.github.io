@@ -155,7 +155,7 @@
 
         <div class="section">
             <h2>Valores dos Itens</h2>
-            <p>Altere os valores dos itens em GP (os valores iniciais são os do prompt).</p>
+            <p>Altere os valores dos itens em GP.</p>
             <table class="item-inputs">
                 <tr>
                     <td>Mokhaiotl cloth:</td>
